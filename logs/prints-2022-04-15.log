@@ -1,0 +1,8 @@
+17:48:26.326 [main] ERROR alpha.Demo - Object is not present
+17:48:26.329 [main] FATAL alpha.Demo - Fatal
+17:48:51.350 [main] DEBUG alpha.Action - Setting chrome driver property
+17:48:58.740 [main] INFO  alpha.Action - Window Maximized
+17:48:58.740 [main] DEBUG alpha.Action - Now hitting Amazon server
+17:49:02.286 [main] INFO  alpha.Action - Landed on amazon home page
+17:49:07.745 [main] DEBUG alpha.Action - Getting the frames count
+17:49:07.790 [main] INFO  alpha.Action - Frames count retrieved

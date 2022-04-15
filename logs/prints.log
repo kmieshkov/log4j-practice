@@ -1,0 +1,3 @@
+17:49:07.815 [main] INFO  alpha.Action - Successfully switched to frame
+17:49:07.820 [main] DEBUG alpha.Action - Identifying Draggable objects
+17:49:08.167 [main] INFO  alpha.Action - Drag and drop success
