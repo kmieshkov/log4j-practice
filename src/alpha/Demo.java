@@ -1,4 +1,4 @@
-package alfa;
+package alpha;
 
 
 import org.apache.logging.log4j.LogManager;
@@ -8,6 +8,14 @@ public class Demo {
 	private static Logger log = LogManager.getLogger(Demo.class.getName());
 
 	public static void main(String[] args) {
-		log.atError();
+		log.debug("Debugging");
+		int a = 2;
+		if (a < 1) {
+			log.debug("Object is present");
+		} else {
+			log.error("Object is not present");
+			log.fatal("Fatal");
+		}
+		log.info("End");
 	}
 }
